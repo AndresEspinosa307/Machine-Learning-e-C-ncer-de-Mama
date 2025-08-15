@@ -1,4 +1,4 @@
-# Machine-Learning-e-C-ncer-de-Mama
+# Machine-Learning-e-Cancer-de-Mama
 Modelo de aprendizado de máquina para detecção oportuna de câncer de mama.
 
 * Neste projeto, atuei na análise de dados de biópsias de câncer de mama para desenvolver um modelo de Machine Learning que classifica amostras como benignas ou malignas. Meu foco foi nas etapas de coleta, preparação e análise exploratória dos dados, essenciais para o sucesso do modelo.
